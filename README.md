@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e1117&height=250&section=header&text=Harsh%20Gohel&fontSize=90&animation=fadeIn&fontAlignY=35&desc=Software%20Developer&descAlign=50&descAlignY=60&fontColor=00df9a&descSize=25" alt="Harsh Gohel Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=003366&height=250&section=header&text=Harsh%20Gohel&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Cloud%20Native%20Specialist%20%7C%20Full%20Stack%20Developer&descAlignY=51&descAlign=62&fontColor=ffffff" alt="Harsh Gohel Banner" />
 </div>
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Harsh_Gohel-00df9a?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=24292e)](https://www.linkedin.com/in/harshgohel46/)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-00df9a?style=for-the-badge&logo=vercel&logoColor=white&labelColor=24292e)](https://v0-harsh-portfolio.vercel.app/)
-  [![Email](https://img.shields.io/badge/Email-Contact_Me-00df9a?style=for-the-badge&logo=gmail&logoColor=white&labelColor=24292e)](mailto:harshgohel46@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Harsh_Gohel-003366?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/harshgohel46/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-003366?style=for-the-badge&logo=vercel&logoColor=white&labelColor=101010)](https://v0-harsh-portfolio.vercel.app/)
+  [![Email](https://img.shields.io/badge/Email-Contact_Me-003366?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:harshgohel46@gmail.com)
 
 </div>
 
@@ -54,8 +54,8 @@ I am a passionate software engineer focused on architecting scalable, distribute
 ### ⚡ GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarshGohel&show_icons=true&theme=dark&hide_border=true&count_private=true&hide=issues,contribs" height="180" alt="Harsh's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshGohel&layout=compact&theme=dark&hide_border=true&langs_count=6" height="180" alt="Harsh's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HarshGohel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=issues,contribs" height="180" alt="Harsh's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshGohel&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180" alt="Harsh's Top Languages" />
 </div>
 
 ---
