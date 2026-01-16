@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=003366&height=250&section=header&text=Harsh%20Gohel&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Cloud%20Native%20Specialist%20%7C%20Full%20Stack%20Developer&descAlignY=51&descAlign=62" alt="Harsh Gohel Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e1117&height=250&section=header&text=Harsh%20Gohel&fontSize=90&animation=fadeIn&fontAlignY=35&desc=Software%20Developer&descAlign=50&descAlignY=60&fontColor=00df9a&descSize=25" alt="Harsh Gohel Banner" />
 </div>
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Harsh_Gohel-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harshgohel46/)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://v0-harsh-portfolio.vercel.app/)
-  [![Email](https://img.shields.io/badge/Email-Contact_Me-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshgohel46@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Harsh_Gohel-00df9a?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=24292e)](https://www.linkedin.com/in/harshgohel46/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-00df9a?style=for-the-badge&logo=vercel&logoColor=white&labelColor=24292e)](https://v0-harsh-portfolio.vercel.app/)
+  [![Email](https://img.shields.io/badge/Email-Contact_Me-00df9a?style=for-the-badge&logo=gmail&logoColor=white&labelColor=24292e)](mailto:harshgohel46@gmail.com)
 
 </div>
 
@@ -31,10 +31,10 @@ I am a passionate software engineer focused on architecting scalable, distribute
   
 | **Domain** | **Technologies** |
 | :--- | :--- |
-| **Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) |
-| **Frameworks** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white) ![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=mui&logoColor=white) ![Alexa](https://img.shields.io/badge/Alexa_Skills-099CEC?style=flat&logo=amazon-alexa&logoColor=white) |
-| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) |
-| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white) |
+| **Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
+| **Frameworks** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white) |
+| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-007ACC?style=flat&logo=azure-devops&logoColor=white) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) |
 
 </div>
 
@@ -54,8 +54,8 @@ I am a passionate software engineer focused on architecting scalable, distribute
 ### ⚡ GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarshGohel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="Harsh's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshGohel&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180" alt="Harsh's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HarshGohel&show_icons=true&theme=dark&hide_border=true&count_private=true&hide=issues,contribs" height="180" alt="Harsh's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshGohel&layout=compact&theme=dark&hide_border=true&langs_count=6" height="180" alt="Harsh's Top Languages" />
 </div>
 
 ---
