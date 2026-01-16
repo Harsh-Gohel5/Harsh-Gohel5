@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=003366&height=250&section=header&text=Harsh%20Gohel&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Cloud%20Native%20Specialist%20%7C%20Full%20Stack%20Developer&descAlignY=51&descAlign=62&fontColor=ffffff" alt="Harsh Gohel Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=003366&height=200&section=header&text=Harsh%20Gohel&fontSize=90&animation=fadeIn&fontAlignY=40&fontColor=ffffff" alt="Harsh Gohel Banner" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Software+Developer" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -14,13 +18,11 @@
 
 ### 👨‍💻 About Me
 
-Hi there! I'm **Harsh Gohel**, a Master's student in **Software Engineering** at **Arizona State University** (Class of 2026) and a Graduate Grader for the IT department.
-
-I am a passionate software engineer focused on architecting scalable, distributed systems. My expertise lies in building robust backends with **Java & Spring Boot**, deploying cloud-native solutions on **AWS**, and orchestrating microservices with **Kubernetes**. I bridge the gap between complex backend logic and intuitive frontend experiences.
+Hi there! I'm **Harsh Gohel**, a Master's student in **Software Engineering** at **Arizona State University**. I am a passionate software engineer focused on architecting scalable, distributed systems. My expertise lies in building robust backends with **Java & Spring Boot**, deploying cloud-native solutions on **AWS**, and orchestrating microservices with **Kubernetes**.
 
 * 🔭 **Currently working on:** **CloudSpire Commerce**, an enterprise-grade microservices e-commerce platform using Event-Driven Architecture (Kafka), Spring Boot, and Kubernetes.
-* 🌱 **Currently learning:** Advanced System Design patterns for high-concurrency systems and deep-diving into AWS Security.
-* 💼 **Experience:** Former Software Engineer Intern at **Axisray** (AI/ML & Automation) and **Electromech** (DevOps).
+* 🌱 **Currently learning:** **Cloud Architecture**, **System Design Concepts**, and **AWS**.
+* 💼 **Experience:** Former Software Engineer Intern at **Axisray** and **Electromech**.
 * 🎯 **Looking for:** Spring 2026 Internships/Co-ops & New Grad Software Engineering roles.
 
 ---
