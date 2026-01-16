@@ -53,15 +53,6 @@ Hi there! I'm **Harsh Gohel**, a Master's student in **Software Engineering** at
 
 ---
 
-### ⚡ GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarshGohel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=issues,contribs" height="180" alt="Harsh's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshGohel&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180" alt="Harsh's Top Languages" />
-</div>
-
----
-
 <div align="center">
   <p><i>Let's connect and build something amazing together!</i></p>
 </div>
