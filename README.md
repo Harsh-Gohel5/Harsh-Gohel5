@@ -51,14 +51,6 @@ Hi there! I'm **Harsh Gohel**, a Master's student in **Software Engineering** at
 | **🎙️ Alexa HR Automation** | **Voice-activated HR system** automating employee management and salaries. Reduced manual query time from **30 mins to 5 mins** by developing custom Alexa Skills and a Java backend. | `Java` `Spring Boot` `Alexa Skills Kit` `AWS Lambda` |
 | **🔥 AI Fire Detection** | AI-powered computer vision system (YOLOv5) capable of real-time fire detection, reducing response times by 95%. | `Python` `YOLOv5` `Computer Vision` |
 
-### ⚡ GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarshGohel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=issues,contribs" height="180" alt="Harsh's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshGohel&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180" alt="Harsh's Top Languages" />
-</div>
-
----
 
 ---
 
