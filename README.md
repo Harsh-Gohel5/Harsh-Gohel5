@@ -20,7 +20,7 @@
 
 Hi there! I'm **Harsh Gohel**, a Master's student in **Software Engineering** at **Arizona State University**. I am a passionate software engineer focused on architecting scalable, distributed systems. My expertise lies in building robust backends with **Java & Spring Boot**, deploying cloud-native solutions on **AWS**, and orchestrating microservices with **Kubernetes**.
 
-* 🔭 **Currently working on:** **CloudSpire Commerce**, an enterprise-grade microservices e-commerce platform using Event-Driven Architecture (Kafka), Spring Boot, and Kubernetes.
+* 🔭 **Currently working on:** **CloudSpire Commerce**, an enterprise-grade microservices e-commerce platform using the Event-Driven Architecture (Kafka), Spring Boot, and Kubernetes.
 * 🌱 **Currently learning:** **Cloud Architecture**, **System Design Concepts**, and **AWS**.
 * 💼 **Experience:** Former Software Engineer Intern at **Axisray** and **Electromech**.
 * 🎯 **Looking for:** Spring 2026 Internships/Co-ops & New Grad Software Engineering roles.
