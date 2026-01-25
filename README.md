@@ -49,7 +49,7 @@ Hi there! I'm **Harsh Gohel**, a Master's student in **Software Engineering** at
 | **☁️ CloudSpire Commerce** | An enterprise microservices e-commerce backend built with **Event-Driven Architecture**. Features decentralized data management, inter-service communication via **Kafka**, and **Kubernetes** orchestration. | `Spring Boot` `Kafka` `Docker` `K8s` `Microservices` |
 | **💬 Arcadia Chat** | A real-time distributed chat system enabling low-latency (<100ms) bi-directional communication. Engineered for scalability using WebSockets and cloud persistence. | `Java` `Spring Boot` `WebSockets` `Next.js` `AWS RDS` |
 | **🎙️ Alexa HR Automation** | **Voice-activated HR system** automating employee management and salaries. Reduced manual query time from **30 mins to 5 mins** by developing custom Alexa Skills and a Java backend. | `Java` `Spring Boot` `Alexa Skills Kit` `AWS Lambda` |
-| **🔥 AI Fire Detection** | AI-powered computer vision system (YOLOv5) capable of real-time fire detection, reducing response times by 95%. | `Python` `YOLOv5` `Computer Vision` |
+| **🔥 AI Fire Detection** | AI-powered computer vision system (YOLOv5) capable of real-time fire detection, and reducing response times by 95%. | `Python` `YOLOv5` `Computer Vision` |
 
 
 ---
