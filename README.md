@@ -23,7 +23,7 @@ Hi there! I'm **Harsh Gohel**, a Master's student in **Software Engineering** at
 * 🔭 **Currently working on:** **CloudSpire Commerce**, an enterprise-grade microservices e-commerce platform using the Event-Driven Architecture (Kafka), Spring Boot, and Kubernetes.
 * 🌱 **Currently learning:** **Cloud Architecture**, **System Design Concepts**, and **AWS**.
 * 💼 **Experience:** Former Software Engineer Intern at **Axisray** and **Electromech**.
-* 🎯 **Looking for:** Spring 2026 Internships/Co-ops & New Grad Software Engineering roles.
+* 🎯 **Looking for:** New Grad Software Engineering roles-let's connect!
 
 ---
 
