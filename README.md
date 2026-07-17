@@ -14,13 +14,6 @@
 
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harsh-Gohel5&show_icons=true&theme=transparent&hide_border=true&title_color=003366&icon_color=003366&text_color=333333" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh-Gohel5&theme=transparent&hide_border=true&title_color=003366&icon_color=003366&text_color=333333" width="48%" alt="GitHub Streak" />
-</div>
-
 ---
 
 ### 👨‍💻 About Me
@@ -63,5 +56,4 @@ Hi there! I'm **Harsh Gohel**, a Master's student in **Software Engineering** at
 
 <div align="center">
   <p><i>Let's connect and build something amazing together!</i></p>
-  <img src="https://komarev.com/ghpvc/?username=Harsh-Gohel5&color=003366&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
