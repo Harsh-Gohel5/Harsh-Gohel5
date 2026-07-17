@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Software+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Software+Engineer;Cloud+Enthusiast;System+Architecture+Geek" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -14,16 +14,24 @@
 
 </div>
 
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Harsh-Gohel5&show_icons=true&theme=transparent&hide_border=true&title_color=003366&icon_color=003366&text_color=333333" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh-Gohel5&theme=transparent&hide_border=true&title_color=003366&icon_color=003366&text_color=333333" width="48%" alt="GitHub Streak" />
+</div>
+
 ---
 
 ### 👨‍💻 About Me
 
-Hi there! I'm **Harsh Gohel**, a Master's student in **Software Engineering** at **Arizona State University**. I am a passionate software engineer focused on architecting scalable, distributed systems. My expertise lies in building robust backends with **Java & Spring Boot**, deploying cloud-native solutions on **AWS**, and orchestrating microservices with **Kubernetes**.
+Hi there! I'm **Harsh Gohel**, a Master's student in **Software Engineering** at **Arizona State University**. I am a passionate software engineer focused on architecting scalable, distributed systems. My expertise lies in building robust backends with **Java & Spring Boot**, deploying cloud-native solutions on **AWS**, and orchestrating microservices with **Kubernetes**. 
 
-* 🔭 **Currently working on:** **CloudSpire Commerce**, an enterprise-grade microservices e-commerce platform using the Event-Driven Architecture (Kafka), Spring Boot, and Kubernetes.
-* 🌱 **Currently learning:** **Cloud Architecture**, **System Design Concepts**, and **AWS**.
+* 🔭 **Currently architecting:** **CloudSpire Commerce**, an enterprise-grade microservices e-commerce platform using Event-Driven Architecture (Kafka), Spring Boot, and Kubernetes.
+* 🎓 **Academics & Leadership:** Maintained high academic standing while serving as a Physics (PHY 111) Teaching Assistant and Course Grader at ASU.
+* 🌱 **Currently mastering:** **Cloud Architecture**, **AWS CDK**, and **System Design Concepts**.
 * 💼 **Experience:** Former Software Engineer Intern at **Axisray** and **Electromech**.
-* 🎯 **Looking for:** New Grad Software Engineering roles-let's connect!
+* 🎯 **Looking for:** New Grad Software Engineering roles in the US—let's connect!
 
 ---
 
@@ -51,9 +59,9 @@ Hi there! I'm **Harsh Gohel**, a Master's student in **Software Engineering** at
 | **🎙️ Alexa HR Automation** | **Voice-activated HR system** automating employee management and salaries. Reduced manual query time from **30 mins to 5 mins** by developing custom Alexa Skills and a Java backend. | `Java` `Spring Boot` `Alexa Skills Kit` `AWS Lambda` |
 | **🔥 AI Fire Detection** | AI-powered computer vision system (YOLOv5) capable of real-time fire detection, and reducing response times by 95%. | `Python` `YOLOv5` `Computer Vision` |
 
-
 ---
 
 <div align="center">
   <p><i>Let's connect and build something amazing together!</i></p>
+  <img src="https://komarev.com/ghpvc/?username=Harsh-Gohel5&color=003366&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
