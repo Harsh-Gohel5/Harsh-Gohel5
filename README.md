@@ -49,6 +49,7 @@ Hi there! I'm **Harsh Gohel**, a Master's student in **Software Engineering** at
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **☁️ CloudSpire Commerce** | An enterprise microservices e-commerce backend built with **Event-Driven Architecture**. Features decentralized data management, inter-service communication via **Kafka**, and **Kubernetes** orchestration. | `Spring Boot` `Kafka` `Docker` `K8s` `Microservices` |
+| **🚨 Mobile SOS Application** | A cross-platform personal safety application focusing on real-time location tracking and false alarm prevention protocols. Features dynamic radius search using H3 grid cells and low-latency socket communication. | `React Native` `Expo` `Express.js` `Socket.IO` `MongoDB`  `Redis` `Firebase` `JWT` `h3-js` |
 | **💬 Arcadia Chat** | A real-time distributed chat system enabling low-latency (<100ms) bi-directional communication. Engineered for scalability using WebSockets and cloud persistence. | `Java` `Spring Boot` `WebSockets` `Next.js` `AWS RDS` |
 | **🎙️ Alexa HR Automation** | **Voice-activated HR system** automating employee management and salaries. Reduced manual query time from **30 mins to 5 mins** by developing custom Alexa Skills and a Java backend. | `Java` `Spring Boot` `Alexa Skills Kit` `AWS Lambda` |
 | **🔥 AI Fire Detection** | AI-powered computer vision system (YOLOv5) capable of real-time fire detection, and reducing response times by 95%. | `Python` `YOLOv5` `Computer Vision` |
